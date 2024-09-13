@@ -1,6 +1,6 @@
 # Hello!
 
-<div class="custom-image-box">
+<div class="custom-image-box" style="text-align:center"> 
     <img src="https://blog.inframous.xyz/images/ai-avatar.jpeg" alt="avatar" class="custom-image" style="width: 30%;">
 </div>
 
@@ -30,7 +30,7 @@ So feel free to look around and hopefully, this will help you with your own ende
 Check out the Tags Page for subjects dear to your heart or, search by keyword.(coming soon :\) )
 <br>
 
-<div class="custom-image-box">
+<div class="custom-image-box" style="text-align:center">
     <img src="https://blog.inframous.xyz/images/ai-linux-caster.png" alt="avatar" class="custom-image" style="width: 30%; margin: 5px">
 </div>
 
