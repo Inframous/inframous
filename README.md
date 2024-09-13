@@ -27,7 +27,7 @@ You might wonder how music and technology intertwine in my life. For me, both fi
 
 Thank you for stopping by! Whether you're here for the music, the tech insights, or a bit of both, I hope you find something that resonates with you. Feel free to reach out if you’d like to connect, collaborate, or just chat about guitars and servers.
 
-Hope you enjoy!!
+Take care!!
 
 Gabriel.
 <br>
