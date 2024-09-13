@@ -1,13 +1,8 @@
-+++
-title = 'About'
-date = 2024-06-14T18:39:37+03:00
-draft = false
-+++
+# Hello!
+
 <div class="custom-image-box">
     <img src="https://blog.inframous.xyz/images/ai-avatar.jpeg" alt="avatar" class="custom-image" style="width: 30%;">
 </div>
-
-Hello!
 
 My name is Gabriel, I’m a Freelance DevOps Engineer, a Self-Hosting Advocate and a working musician. (Sheesh! That’s a mouthfull lol!)
 This is where I spill my guts about everything DevOps, IT, System, Home-Lab and Self Hosting related stuff.
@@ -36,7 +31,7 @@ Check out the Tags Page for subjects dear to your heart or, search by keyword.(c
 <br>
 
 <div class="custom-image-box">
-    <img src="/images/ai-linux-caster.png" alt="avatar" class="custom-image" style="width: 30%; margin: 5px">
+    <img src="https://blog.inframous.xyz/images/ai-linux-caster.png" alt="avatar" class="custom-image" style="width: 30%; margin: 5px">
 </div>
 
 ## The journey
